@@ -25,6 +25,6 @@ http://localhost:3000/add/"name"/"price"/"year"/"condition"/"description"
 
 Lisää tavaran tietokantaan antamillasi tiedoilla
 
-http:/lcoalhost:3000/update/item/"id"/"name"
+http://localhost:3000/update/item/"id"/"name"
 
 Päivittää antamasi id:n perusteella tavaralle uuden nimen
