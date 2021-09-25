@@ -1,7 +1,7 @@
 # API-kehitys
 
 -- Author: Eero Kaarnalehto <eero.kaarnalehto@tuni.fi>
--- Date: 2020-02-04
+-- Date: 2021-02-04
 
 DB kansiosta löytyy databaseen liittyvät knex.js tiedostot, esimerkiksi sql käskyt.
 
